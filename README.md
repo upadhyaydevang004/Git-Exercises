@@ -1,4 +1,4 @@
-# HW3
+## Git exercise completion
 
 ![Task 1-Image](https://github.com/upadhyaydevang004/Git-Exercises/blob/master/learngitbranching.png)
 
